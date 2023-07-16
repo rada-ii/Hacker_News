@@ -2,7 +2,7 @@ checkout live:
 
 https://haker-news.vercel.app/
 #
-This is simple React app that fetches data from API endpoint.
+This is a simple React app that fetches data from API endpoint.
 
 
 # Getting Started with Create React App
