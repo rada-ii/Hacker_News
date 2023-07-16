@@ -1,6 +1,21 @@
 checkout live:
 
 https://haker-news.vercel.app/
+#
+This is simple React app that fetches data from API endpoint.
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+### `npm i`
+or
+### `npm install`
+In the project directory, you can run:
+
+### `npm start`
 
 
 # Getting Started with Create React App
