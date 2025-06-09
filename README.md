@@ -4,7 +4,11 @@ A simple React application that fetches and displays data from the Hacker News A
 
 ## 🚀 Live Demo
 
-**🌐 [View Live Application](https://haker-news.vercel.app/)**
+
+<a href="https://haker-news.vercel.app/" target="_blank" rel="noopener noreferrer">
+    🌐 View Live Application
+</a>
+
 
 ## ✨ Features
 
